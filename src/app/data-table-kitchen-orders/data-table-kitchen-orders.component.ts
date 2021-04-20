@@ -67,9 +67,9 @@ const ELEMENT_DATA: PeriodicElement[] = [
   {ordem: 1, imgUrl: 'https://media.istockphoto.com/photos/cheeseburger-isolated-on-white-picture-id1157515115', pedido:'Hamburguer', mesa: '01', feito:false, excluir:false},
   {ordem: 2, imgUrl: 'https://pizzaestupenda.com.br/wp-content/uploads/2018/12/Estupenda-17767.png', pedido:'Pizza Calabresa', mesa: '05', feito:false, excluir:false},
   {ordem: 3, imgUrl: 'https://pizzaestupenda.com.br/wp-content/uploads/2018/12/Estupenda-17691.png', pedido:'Pizza Frango', mesa: '12', feito:false, excluir:false},
-  {ordem: 1, imgUrl: 'Hydrogen', pedido:'Hmaburguer', mesa: '12', feito:false, excluir:false},
-  {ordem: 1, imgUrl: 'Hydrogen', pedido:'Hmaburguer', mesa: '12', feito:true, excluir:false},
-  {ordem: 1, imgUrl: 'Hydrogen', pedido:'Hmaburguer', mesa: '12', feito:false, excluir:false},
-  {ordem: 1, imgUrl: 'Hydrogen', pedido:'Hmaburguer', mesa: '12', feito:false, excluir:false},
+  {ordem: 1, imgUrl: 'https://s1.1zoom.me/big0/599/Hamburger_Closeup_Frikadeller_Cheese_White_570310_1280x800.jpg', pedido:'Hmaburguer', mesa: '12', feito:false, excluir:false},
+  {ordem: 1, imgUrl: 'https://s1.1zoom.me/big0/599/Hamburger_Closeup_Frikadeller_Cheese_White_570310_1280x800.jpg', pedido:'Hmaburguer', mesa: '12', feito:true, excluir:false},
+  {ordem: 1, imgUrl: 'https://s1.1zoom.me/big0/599/Hamburger_Closeup_Frikadeller_Cheese_White_570310_1280x800.jpg', pedido:'Hmaburguer', mesa: '12', feito:false, excluir:false},
+  {ordem: 1, imgUrl: 'https://s1.1zoom.me/big0/599/Hamburger_Closeup_Frikadeller_Cheese_White_570310_1280x800.jpg', pedido:'Hmaburguer', mesa: '12', feito:false, excluir:false},
  
 ];
