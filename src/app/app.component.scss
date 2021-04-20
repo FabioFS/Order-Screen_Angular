@@ -1,0 +1,24 @@
+body{
+  padding: 0;
+  margin: 0;
+
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    background: rgba(189, 115, 19, 0.418);
+    background-blend-mode: overlay;
+    background-image: url("../assets/bg_less_2.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
